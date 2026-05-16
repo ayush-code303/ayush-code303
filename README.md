@@ -158,7 +158,7 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316bb3kau35kl6swgzxu3lphuwbu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316bb3kau35kl6swgzxu3lphuwbu&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316bb3kau35kl6swgzxu3lphuwbu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
   </a>
 </p>
 
@@ -170,7 +170,7 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 <tr>
 
 <td align="center" width="30%">
-<a href="href="https://www.linkedin.com/in/ayush-varshney2007/">
+<a href="https://www.linkedin.com/in/ayush-varshney2007/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="86"/>
 </a>
 
@@ -184,7 +184,7 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 </td>
 
 <td align="center" width="30%">
-<a href="discordapp.com/users/1110850804535017564">
+<a href="https://discordapp.com/users/1110850804535017564">
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="90"/>
 </a>
 
