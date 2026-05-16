@@ -170,7 +170,7 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 <tr>
 
 <td align="center" width="30%">
-<a href="<a href="https://www.linkedin.com/in/ayush-varshney2007/">">
+<a href="href="https://www.linkedin.com/in/ayush-varshney2007/">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="86"/>
 </a>
 
