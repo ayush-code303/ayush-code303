@@ -12,25 +12,31 @@
 
 <table align="center">
 <tr>
-<td width="58%">
 
-```bash
-> whoami
+<td width="62%">
 
-Name: Ayush
-Role: B.Tech CSE Student
-Status: Rebuilding GitHub like it actually matters
-OS Preference: Linux 🐧
-Coding Mood: caffeinated ☕
-Debugging Skill: print("why is this broken?")
-Current Goal: writing code my future self won’t roast
-```
+<div style="font-size: 15px; line-height: 1.7;">
+
+<p align="left">
+I'm a <b>B.Tech Computer Science student</b> with a growing interest in <b>backend development, software engineering, and Linux-based workflows</b>. I enjoy building practical projects that help me understand how real systems work, from APIs and backend architecture to debugging and clean code practices.
+</p>
+
+<p align="left">
+Currently, I'm focused on strengthening my foundations in <b>Data Structures & Algorithms, REST APIs, system design basics, and backend development</b> while improving through hands-on projects and experimentation.
+</p>
+
+<p align="left">
+I like solving problems, turning ideas into working projects, and occasionally fighting bugs that somehow only appear in production.
+</p>
+
+</div>
 
 </td>
 
-<td width="42%" align="center">
-  <img src="https://media.tenor.com/ULkzmnVZi-oAAAAM/leon-dance-terminal-montage-leon.gif" width="220"/>
+<td width="38%" align="center">
+  <img src="https://media.tenor.com/ULkzmnVZi-oAAAAM/leon-dance-terminal-montage-leon.gif" width="250"/>
 </td>
+
 </tr>
 </table>
 
@@ -41,7 +47,7 @@ Current Goal: writing code my future self won’t roast
 ### Languages I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,html,css,bash"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash"/>
 </p>
 
 ### Tools / Frameworks I'm Learning
@@ -51,21 +57,34 @@ Current Goal: writing code my future self won’t roast
 </p>
 
 <p align="center">
-  <i>Still learning (occasionally breaking things 😅)</i>
+  <i>Still learning (Sometimes 😅)</i>
 </p>
 
 ---
 
 ## 📚 Currently Learning
 
-```txt
+
+<table align="center">
+<tr>
+<td width="30%" align="center">
+  <img src="https://media.tenor.com/a6S35wgiCOsAAAAM/deku-java.gif" width="220"/>
+</td>
+  
+<td width="70%">
+
+<pre>
 Data Structures & Algorithms
 Backend Architecture
 REST API Design
 System Design Fundamentals
 Linux Workflows
 Clean Code
-```
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -147,22 +166,13 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 </td>
 
 <td width="30%" align="center">
-  <img src="https://media.tenor.com/a6S35wgiCOsAAAAM/deku-java.gif" width="220"/>
+  <img src="https://media1.tenor.com/m/OMEAv2svJbUAAAAd/spongebob-squarepants-to-do-list.gif" width="220"/>
 </td>
 </tr>
 </table>
 
 ---
 
-## 🎵 Spotify Now Playing
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=316bb3kau35kl6swgzxu3lphuwbu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=316bb3kau35kl6swgzxu3lphuwbu&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark">
-  </a>
-</p>
-
----
 
 ## 🤝 Wanna Connect?
 
@@ -174,7 +184,7 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="86"/>
 </a>
 
-**Professional 🧳**
+**LinkedIn 🧳**
 </td>
 
 <td align="center" width="40%">
@@ -188,8 +198,15 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="90"/>
 </a>
 
-**Chaos 🎮**
+**Discord 🎮**
 </td>
+
 
 </tr>
 </table>
+
+---
+
+<p align="center">
+  <code>Remember: You never finish a program, you just stop working on it.</code>
+</p>
