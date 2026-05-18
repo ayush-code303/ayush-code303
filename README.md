@@ -2,10 +2,6 @@
 
 <h3 align="center">🎵 Music | 🎮 Gaming | 💻 Coding</h3>
 
-<p align="center">
-  <code>You never finish a program, you just stop working on it.</code>
-</p>
-
 ---
 
 ## 🧠 About Me
