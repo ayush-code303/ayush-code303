@@ -38,12 +38,12 @@ I like solving problems, turning ideas into working projects, and occasionally f
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c, js,ts,python,html,css,bash"/>
+  <img src="https://skillicons.dev/icons?i=c,js,ts,python,html,css,bash"/>
 </p>
 
 ### Tools / Frameworks I'm Learning
