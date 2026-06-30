@@ -43,13 +43,13 @@ I like solving problems, turning ideas into working projects, and occasionally f
 ### Languages I Actually Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c js,ts,python,html,css,bash"/>
+  <img src="https://skillicons.dev/icons?i=c, js,ts,python,html,css,bash"/>
 </p>
 
 ### Tools / Frameworks I'm Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,c++,mysql,git,github,linux,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,mysql,git,github,linux,vscode,postman"/>
 </p>
 
 <p align="center">
