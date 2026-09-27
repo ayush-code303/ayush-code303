@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=190&section=header&text=AYUSH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Music%20%E2%80%A2%20Gaming%20%E2%80%A2%20Coding&descAlignY=58&descSize=21" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=190&section=header&text=AYUSH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%8E%B5%20Music%20%E2%80%A2%20%F0%9F%8E%AE%20Gaming%20%E2%80%A2%20%F0%9F%92%BB%20Coding&descAlignY=58&descSize=21" width="100%" />
 
 <a href="https://github.com/ayush-code303">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+with+JavaScript%2C+Python+%26+React;Backend+%7C+APIs+%7C+Linux+%7C+AI;Turning+ideas+into+working+systems;Learning+by+building" alt="Typing SVG" />
@@ -42,8 +42,6 @@ I'm currently focused on strengthening my foundations in:
 - AI-powered applications
 - Git, GitHub and collaborative development
 
-> 🎵 Music • 🎮 Gaming • 💻 Coding
-
 ---
 
 ## 🧰 Tech Stack
@@ -75,9 +73,7 @@ I'm currently focused on strengthening my foundations in:
 ### Exploring
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,tailwind" alt="Exploring: Solidity, Ethereum, Tailwind CSS" />
-
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,tailwind" alt="Exploring: Solidity, Ethereum, Tailwind CSS" />
 </div>
 
 ---
@@ -168,3 +164,100 @@ Linux Workflows
 Database Design
 Clean Code
 Git & GitHub Workflows
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Current Quest
+
+<table align="center">
+<tr>
+
+<td width="70%">
+
+```text
+[✓] Rebuild GitHub properly
+[ ] Solve DSA without watching the solution
+[ ] Build backend projects people actually use
+[ ] Improve system design fundamentals
+[ ] Build more production-oriented projects
+[ ] Become better at debugging
+[ ] Stop creating new ideas at 2 AM
+[ ] Touch grass (legendary difficulty)
+```
+
+</td>
+
+<td width="30%" align="center">
+  <img src="https://media1.tenor.com/m/OMEAv2svJbUAAAAd/spongebob-squarepants-to-do-list.gif" width="220" alt="Current quest" />
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-code303&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="165" alt="GitHub stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-code303&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="165" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ayush-code303&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayush-code303/ayush-code303/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/ayush-code303">
+  <img src="https://img.shields.io/badge/GitHub-ayush--code303-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-varshney2007/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Varshney-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+
+<a href="https://discordapp.com/users/1110850804535017564">
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
+<a href="mailto:ayushvarshney3000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<code>Remember: You never finish a program, you just stop working on it.</code>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=110&section=footer" width="100%" />
+
+</div>
