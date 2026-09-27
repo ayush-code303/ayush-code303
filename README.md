@@ -1,146 +1,175 @@
-<h1 align="center">Hey there 👋 I'm Ayush</h1>
+<!-- ===================== HEADER ===================== -->
 
-<h3 align="center">🎵 Music | 🎮 Gaming | 💻 Coding</h3>
+<div align="center">
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=190&section=header&text=AYUSH&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%F0%9F%8E%B5%20Music%20%E2%80%A2%20%F0%9F%8E%AE%20Gaming%20%E2%80%A2%20%F0%9F%92%BB%20Coding&descAlignY=58&descSize=21" width="100%" />
 
-## 🧠 About Me
+<a href="https://github.com/ayush-code303">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+with+JavaScript%2C+Python+%26+React;Backend+%7C+APIs+%7C+Linux+%7C+AI;Turning+ideas+into+working+systems;Learning+by+building" alt="Typing SVG" />
+</a>
 
-<table align="center">
-<tr>
+<br />
 
-<td width="62%">
+<a href="https://github.com/ayush-code303">
+  <img src="https://komarev.com/ghpvc/?username=ayush-code303&style=flat-square&color=58A6FF" alt="Profile views" />
+</a>
 
-<div style="font-size: 15px; line-height: 1.7;">
+<a href="https://github.com/ayush-code303?tab=followers">
+  <img src="https://img.shields.io/github/followers/ayush-code303?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
+</a>
 
-<p align="left">
-I'm a <b>B.Tech Computer Science student</b> with a growing interest in <b>backend development, software engineering, and Linux-based workflows</b>. I enjoy building practical projects that help me understand how real systems work, from APIs and backend architecture to debugging and clean code practices.
-</p>
-
-<p align="left">
-Currently, I'm focused on strengthening my foundations in <b>Data Structures & Algorithms, REST APIs, system design basics, and backend development</b> while improving through hands-on projects and experimentation.
-</p>
-
-<p align="left">
-I like solving problems, turning ideas into working projects, and occasionally fighting bugs that somehow only appear in production.
-</p>
+<a href="https://github.com/ayush-code303?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-161b22?style=flat-square&logo=github" alt="GitHub repositories" />
+</a>
 
 </div>
 
-</td>
+---
 
-<td width="38%" align="center">
-  <img src="https://media.tenor.com/ULkzmnVZi-oAAAAM/leon-dance-terminal-montage-leon.gif" width="250"/>
-</td>
+## 👨‍💻 About Me
 
-</tr>
-</table>
+I'm **Ayush**, a B.Tech Computer Science student focused on practical software engineering.
+
+I build projects across **full-stack web development, backend systems, AI integrations, blockchain experiments, and developer tooling**. My approach is simple: learn the fundamentals, build something real, break it, debug it, and improve the architecture.
+
+I'm currently focused on strengthening my foundations in:
+
+- Data Structures & Algorithms
+- React + Node.js full-stack development
+- REST API design and backend architecture
+- Database design and SQL
+- Linux and developer workflows
+- AI-powered applications
+- Git, GitHub and collaborative development
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### Languages I Actually Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,ts,python,html,css,bash"/>
-</p>
-
-### Tools / Frameworks I'm Learning
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,cpp,mysql,git,github,linux,vscode,postman"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,html,css,bash" alt="Languages" />
 </p>
 
+### Frameworks & Runtime
+
 <p align="center">
-  <i>Still learning (Sometimes 😅)</i>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite" alt="Frameworks and runtime" />
 </p>
+
+### Databases & Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="Databases and backend" />
+</p>
+
+### Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" alt="Tools and platforms" />
+</p>
+
+### Exploring
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,tailwind" alt="Exploring: Solidity, Ethereum, Tailwind CSS" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏨 Hostel Management System
+
+**MERN • REST API • MongoDB • JWT • RBAC**
+
+A full-stack hostel administration platform covering student records, hostels, rooms, allocations, fees, complaints, notices, attendance and visitor management.
+
+→ **[Repository](https://github.com/ayush-code303/Hostel-Management-System)**
+
+---
+
+### 🌊 HydroSnap
+
+**Android • FastAPI/Node.js • PostgreSQL • OpenCV • OCR**
+
+A Smart India Hackathon 2025 project for secure river water-level monitoring using geofencing, QR verification, live image capture, image processing, metadata traceability and offline-first workflows.
+
+→ **[Repository](https://github.com/ayush-code303/SIH2025_HydroSnap_Team-GrayCode)**
+
+---
+
+### 🤖 AXIOM AI Agent
+
+**Node.js • Express • Google Gemini API**
+
+A conversational backend that summarizes content and extracts factual claims through a clean REST API, with an architecture designed for future verification workflows.
+
+→ **[Repository](https://github.com/ayush-code303/Axiom-AiAgent)**
+
+---
+
+### 🔐 CertiProof
+
+**React • Node.js • Solidity • Hardhat • IPFS**
+
+A Web3 certificate validation system exploring decentralized verification, document hashing, smart contracts, wallet integration and decentralized storage.
+
+→ **[Repository](https://github.com/ayush-code303/CertiProof-web3)**
+
+---
+
+### ⛓️ BlockProof
+
+**React • Node.js • Solidity • Polygon • Google Gemini**
+
+A certificate-verification prototype combining blockchain records with AI-assisted document analysis to detect tampering and provide verification workflows.
+
+→ **[Repository](https://github.com/ayush-code303/BlockProof-GoogleCertificateVerificationSystem)**
+
+---
+
+## 🧪 Engineering Interests
+
+| Area | What I'm exploring |
+| --- | --- |
+| **Backend** | REST APIs, authentication, validation, modular architecture |
+| **Frontend** | React, responsive interfaces, component architecture |
+| **Databases** | MongoDB, SQL, schema design, data modeling |
+| **AI** | Gemini/LLM integrations, agents, automation |
+| **Web3** | Solidity, smart contracts, decentralized verification |
+| **Linux** | CLI workflows, system configuration, development environments |
+| **DevOps** | GitHub Actions, Docker, deployment workflows |
 
 ---
 
 ## 📚 Currently Learning
 
-
 <table align="center">
 <tr>
+
 <td width="30%" align="center">
-  <img src="https://media.tenor.com/a6S35wgiCOsAAAAM/deku-java.gif" width="220"/>
+  <img src="https://media.tenor.com/a6S35wgiCOsAAAAM/deku-java.gif" width="220" alt="Learning" />
 </td>
-  
+
 <td width="70%">
 
-<pre>
+```text
 Data Structures & Algorithms
 Backend Architecture
 REST API Design
 System Design Fundamentals
 Linux Workflows
+Database Design
 Clean Code
-</pre>
+Git & GitHub Workflows
+```
 
 </td>
+
 </tr>
 </table>
-
----
-
-## 🚀 Top Projects
-
-### 🏥 Smart Health API
-Backend-focused healthcare API project built to explore backend architecture and practical API workflows.
-
-**Built with:** `Node.js` • `Express` • `Database`
-
-**Highlights:**
-- REST API development
-- authentication flow concepts
-- request/response handling
-- backend architecture organization
-- API testing & debugging
-
----
-
-### 💧 HydroSnap
-Hackathon-built project focused on solving practical water-tech challenges under time pressure.
-
-**Highlights:**
-- rapid prototyping
-- team collaboration
-- problem-solving implementation
-- debugging under pressure
-- presentation survival 😭
-
----
-
-### 🤖 AI Tool Experiments
-A playground for experimenting with AI-powered dev tools, workflows, and automation concepts.
-
-**Examples:**
-- ChatGPT workflow experiments
-- prompt engineering mini tools
-- automation ideas
-- developer productivity concepts
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-code303&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayush-code303&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayush-code303&theme=tokyonight"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayush-code303/ayush-code303/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 
@@ -148,61 +177,87 @@ A playground for experimenting with AI-powered dev tools, workflows, and automat
 
 <table align="center">
 <tr>
+
 <td width="70%">
 
-<pre>
+```text
 [✓] Rebuild GitHub properly
-[ ] Solve DSA without watching solution in 4 minutes
-[ ] Build backend project people actually use
+[ ] Solve DSA without watching the solution
+[ ] Build backend projects people actually use
+[ ] Improve system design fundamentals
+[ ] Build more production-oriented projects
+[ ] Become better at debugging
 [ ] Stop creating new ideas at 2 AM
-[ ] Become friends with debugging
 [ ] Touch grass (legendary difficulty)
-</pre>
+```
 
 </td>
 
 <td width="30%" align="center">
-  <img src="https://media1.tenor.com/m/OMEAv2svJbUAAAAd/spongebob-squarepants-to-do-list.gif" width="220"/>
+  <img src="https://media1.tenor.com/m/OMEAv2svJbUAAAAd/spongebob-squarepants-to-do-list.gif" width="220" alt="Current quest" />
 </td>
+
 </tr>
 </table>
 
 ---
 
+## 📊 GitHub Activity
 
-## 🤝 Wanna Connect?
+<div align="center">
 
-<table align="center">
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-code303&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=github_dark" height="165" alt="GitHub stats" />
 
-<td align="center" width="30%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-code303&layout=compact&hide_border=true&langs_count=8&theme=github_dark" height="165" alt="Top languages" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=ayush-code303&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ayush-code303/ayush-code303/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://github.com/ayush-code303">
+  <img src="https://img.shields.io/badge/GitHub-ayush--code303-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
 <a href="https://www.linkedin.com/in/ayush-varshney2007/">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="86"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Varshney-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
 
-**LinkedIn 🧳**
-</td>
-
-<td align="center" width="40%">
-<img src="https://media.tenor.com/y6FESCHRXioAAAAM/eligue-pibe-matrix.gif" width="260"/>
-
-<i>Choose your destination.</i>
-</td>
-
-<td align="center" width="30%">
 <a href="https://discordapp.com/users/1110850804535017564">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="90"/>
+  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
-**Discord 🎮**
-</td>
+<a href="mailto:ayushvarshney3000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-
-</tr>
-</table>
+</div>
 
 ---
 
-<p align="center">
-  <code>Remember: You never finish a program, you just stop working on it.</code>
-</p>
+<div align="center">
+
+<code>Remember: You never finish a program, you just stop working on it.</code>
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=110&section=footer" width="100%" />
+
+</div>
